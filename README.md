@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-  <img src="YOUR_CERTIFICATE_IMAGE_LINK" width="600"/>
+  <img src="YOUR_CERTIFICATE_IMAGE_LINK" width="200" height="400"/>
 </p>
 
 ## 🚀 Tech Stack
