@@ -36,9 +36,13 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/mujahid9644/.mujahid9644/blob/main/assets/images/V8.PNG?raw=true" width="170" height="100"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/mujahid9644/.mujahid9644/blob/main/assets/images/V8.PNG?raw=true" width="170" height="100"/>
+  <a href="https://www.freecodecamp.org/certification/mujahid9644/responsive-web-design">
+   <img src="https://github.com/mujahid9644/.mujahid9644/blob/main/assets/images/V8.PNG?raw=true" width="170" height="100"/>
+  </a>  
+  &nbsp;&nbsp;
+  <a href="https://www.freecodecamp.org/certification/mujahid9644/responsive-web-design">
+   <img src="https://github.com/mujahid9644/.mujahid9644/blob/main/assets/images/V8.PNG?raw=true" width="170" height="100"/>
+  </a> 
 </p>
 ## 🚀 Tech Stack
 
