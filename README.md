@@ -41,7 +41,7 @@
   </a>
 </p>
 
-> 🔥 Replace `your-repo-name` with your best project
+> https://e-com-alpha-swart.vercel.app/
 
 ---
 
@@ -69,3 +69,12 @@
 🧠 Learning Deep Learning
 ⚙️ Scalable Backend Systems
 🎨 Premium UI/UX Design
+📞 Contact Me
+<p align="center"> <a href="https://wa.me/8801533827434"> <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" /> </a> <a href="mailto:mujahid102102@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /> </a> <a href="https://www.linkedin.com/in/al-mujahid-ali-2b27053b7/"> <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" /> </a> </p>
+🌍 Visitor Counter
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mujahid9644&label=Profile+Views&color=00F7FF&style=flat" /> </p>
+💡 Quote
+
+"Code is not just code — it's a money-making machine 💸"
+
+<p align="center"> ⭐ Star your favorite repos & follow me for more! </p> <!-- Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/> </p> ```
