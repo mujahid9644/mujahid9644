@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://e-com-alpha-swart.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahid9644&repo=your-repo-name&theme=tokyonight" />
+    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/E-Com.PNG?raw=true" width="70" />
   </a>
 </p>
 
@@ -65,9 +65,11 @@
 ---
 <p align="center">
   <a href="https://mujahid9644.github.io/doctor-demo/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mujahid9644&repo=your-repo-name&theme=tokyonight" />
+    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/DoctorDmo.PNG?raw=true" width="70" />
   </a>
 </p>
+
+> https://mujahid9644.github.io/doctor-demo/
 
 > https://mujahid9644.github.io/doctor-demo/
 ## 📊 GitHub Stats
