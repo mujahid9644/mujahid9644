@@ -56,22 +56,21 @@
 
 <p align="center">
   <a href="https://e-com-alpha-swart.vercel.app/">
-    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/E-Com.PNG?raw=true" width="70" />
+    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/E-Com.PNG?raw=true" width="170" />
   </a>
 </p>
-
-> https://e-com-alpha-swart.vercel.app/
-
+<p align="center">
+ > https://e-com-alpha-swart.vercel.app/
+</p>
 ---
 <p align="center">
   <a href="https://mujahid9644.github.io/doctor-demo/">
-    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/DoctorDmo.PNG?raw=true" width="70" />
+    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/DoctorDmo.PNG?raw=true" width="170" />
   </a>
 </p>
-
-> https://mujahid9644.github.io/doctor-demo/
-
-> https://mujahid9644.github.io/doctor-demo/
+<p align="center">
+ > https://mujahid9644.github.io/doctor-demo/
+</p>
 ## 📊 GitHub Stats
 
 <p align="center">
