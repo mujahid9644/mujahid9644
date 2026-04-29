@@ -55,7 +55,7 @@
 ## 🧩 Featured Projects
 <p align="center">
   <a href="https://dent2-rho.vercel.app/">
-    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/E-Com.PNG?raw=true" width="170" height="100" />
+    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/dent2.png?raw=true" width="170" height="100" />
   </a>
 </p>
 <p align="center">
