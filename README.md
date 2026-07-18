@@ -69,13 +69,14 @@
 <p align="center">
  > https://my-profile-pi-navy.vercel.app/
 </p>
+
 <p align="center">
-  <a href="https://mimpex.vercel.app/">
-    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/dent2.png?raw=true" width="170" height="100" />
+  <a href="https://e-com-alpha-swart.vercel.app/">
+    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/E-Com.PNG?raw=true" width="170" height="100" />
   </a>
 </p>
 <p align="center">
- > https://mimpex.vercel.app/
+ > https://e-com-alpha-swart.vercel.app/
 </p>
 
 <p align="center">
@@ -88,12 +89,12 @@
 </p>
 
 <p align="center">
-  <a href="https://e-com-alpha-swart.vercel.app/">
-    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/E-Com.PNG?raw=true" width="170" height="100" />
+  <a href="https://mimpex.vercel.app/">
+    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/MimpexSS.PNG?raw=true" width="170" height="100" />
   </a>
 </p>
 <p align="center">
- > https://e-com-alpha-swart.vercel.app/
+ > https://mimpex.vercel.app/
 </p>
 ---
 <p align="center">
