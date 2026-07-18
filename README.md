@@ -30,7 +30,11 @@
     <img src="https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge" />
   </a>
   &nbsp;&nbsp;
-  <a href="LINK2">
+  <a href="https://ostad.app/share/certificate/c42484-mujahid">
+    <img src="https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge" />
+  </a>
+ &nbsp;&nbsp;
+  <a href="https://ostad.app/share/certificate/c42482-mujahid">
     <img src="https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge" />
   </a>
 </p>
@@ -40,8 +44,12 @@
    <img src="https://github.com/mujahid9644/.mujahid9644/blob/main/assets/images/V8.PNG?raw=true" width="170" height="100"/>
   </a>  
   &nbsp;&nbsp;
-  <a href="https://www.freecodecamp.org/certification/mujahid9644/responsive-web-design">
-   <img src="https://github.com/mujahid9644/.mujahid9644/blob/main/assets/images/V8.PNG?raw=true" width="170" height="100"/>
+  <a href="https://ostad.app/share/certificate/c42484-mujahid">
+   <img src="https://my-profile-pi-navy.vercel.app/ai_automation.png" width="170" height="100"/>
+  </a> 
+  &nbsp;&nbsp;
+  <a href="https://ostad.app/share/certificate/c42482-mujahid">
+   <img src="https://my-profile-pi-navy.vercel.app/OstadUIUX.PNG" width="170" height="100"/>
   </a> 
 </p>
 ## 🚀 Tech Stack
@@ -60,6 +68,14 @@
 </p>
 <p align="center">
  > https://my-profile-pi-navy.vercel.app/
+</p>
+<p align="center">
+  <a href="https://mimpex.vercel.app/">
+    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/dent2.png?raw=true" width="170" height="100" />
+  </a>
+</p>
+<p align="center">
+ > https://mimpex.vercel.app/
 </p>
 
 <p align="center">
