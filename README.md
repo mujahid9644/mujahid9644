@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://www.freecodecamp.org/certification/mujahid9644/responsive-web-design">
-    <img src="[https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge](https://my-profile-pi-navy.vercel.app/rwdfree.png)" />
+    <img src="https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge" />
   </a>
   &nbsp;&nbsp;
   <a href="https://ostad.app/share/certificate/c42484-mujahid">
@@ -56,7 +56,7 @@
 
 <p align="center">
   <a href="https://www.freecodecamp.org/certification/mujahid9644/responsive-web-design">
-   <img src="https://github.com/mujahid9644/.mujahid9644/blob/main/assets/images/V8.PNG?raw=true" width="170" />
+   <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/rwdfree.png?raw=true" width="170" />
   </a>
   &nbsp;&nbsp;
   <a href="https://ostad.app/share/certificate/c42484-mujahid">
