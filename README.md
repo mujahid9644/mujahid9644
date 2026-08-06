@@ -7,22 +7,22 @@
 <h3 align="center">CSE Student | Full-Stack Developer (Django / React)</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=600&lines=Building+with+Django+%26+React;Learning+AI%2FLLM+integration;Growing+one+project+at+a+time;Always+learning+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=435&size=20&lines=Building+with+Django+%26+React;Learning+AI%2FLLM+integration;Growing+one+project+at+a+time;Always+learning+%F0%9F%94%A5" width="90%" style="max-width:435px;" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-<img align="right" width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<p align="center">
+  <img width="220" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+</p>
 
-- 🎓 Dept of CSE — Dhaka International University (DIU), 3rd Year
+- 🎓 CSE Student — Dhaka International University (DIU), 3rd Year
 - 💻 Full-Stack Developer — Django + React
 - 🤖 Exploring AI/LLM integration (OpenAI API, LangChain)
 - 🌐 Built and deployed 5+ personal web projects
 - 📖 Hafez of the Qur'an — discipline & consistency in everything I do
-
-<br clear="right"/>
 
 ## 🌱 Currently Learning
 
@@ -40,33 +40,32 @@
 
 ## 🎓 Certifications
 
-<p align="center">
-  <a href="https://www.freecodecamp.org/certification/mujahid9644/responsive-web-design">
-    <img src="https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ostad.app/share/certificate/c42484-mujahid">
-    <img src="https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ostad.app/share/certificate/c42482-mujahid">
-    <img src="https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.freecodecamp.org/certification/mujahid9644/responsive-web-design">
+        <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/rwdfree.png?raw=true" width="170" /><br/>
+        <sub><b>Responsive Web Design</b></sub><br/>
+        <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://ostad.app/share/certificate/c42484-mujahid">
+        <img src="https://my-profile-pi-navy.vercel.app/ai_automation.png" width="170" /><br/>
+        <sub><b>AI Automation Career</b></sub><br/>
+        <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://ostad.app/share/certificate/c42482-mujahid">
+        <img src="https://my-profile-pi-navy.vercel.app/OstadUIUX.PNG" width="170" /><br/>
+        <sub><b>AI-Powered UI/UX Design</b></sub><br/>
+        <img src="https://img.shields.io/badge/View-Certificate-blue?style=flat-square" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://www.freecodecamp.org/certification/mujahid9644/responsive-web-design">
-   <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/rwdfree.png?raw=true" width="170" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ostad.app/share/certificate/c42484-mujahid">
-   <img src="https://my-profile-pi-navy.vercel.app/ai_automation.png" width="170" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ostad.app/share/certificate/c42482-mujahid">
-   <img src="https://my-profile-pi-navy.vercel.app/OstadUIUX.PNG" width="170" />
-  </a>
-</p>
 
 ---
 
