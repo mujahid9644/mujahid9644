@@ -133,6 +133,6 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mujahid9644&label=Profile+Views&color=00F7FF&style=flat" /> </p>
 💡 Quote
 
-"Code is not just code — it's a money-making machine 💸"
+"🌱 Currently learning: Advanced DSA & System Design"
 
 <p align="center"> ⭐ Star your favorite repos & follow me for more! </p> <!-- Footer --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/> </p> 
