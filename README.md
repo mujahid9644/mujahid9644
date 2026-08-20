@@ -96,11 +96,11 @@
       <br/><a href="https://e-com-alpha-swart.vercel.app/">Live Link</a>
     </td>
     <td align="center" width="25%">
-      <a href="https://dent2-rho.vercel.app/">
-        <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/dent2.png?raw=true" width="100%" />
+      <a href="https://mujahid9644.github.io/doctor-demo/">
+        <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/DoctorDmo.PNG?raw=true" width="100%" />
       </a>
       <br/><b>Dental Clinic App</b>
-      <br/><a href="https://dent2-rho.vercel.app/">Live Link</a>
+      <br/><a href="https://mujahid9644.github.io/doctor-demo/">Live Link</a>
     </td>
     <td align="center" width="25%">
       <a href="https://mimpex.vercel.app/">
@@ -113,11 +113,11 @@
 </table>
 
 <p align="center">
-  <a href="https://mujahid9644.github.io/doctor-demo/">
-    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/DoctorDmo.PNG?raw=true" width="220" />
+  <a href="https://dent2-rho.vercel.app/">
+    <img src="https://github.com/mujahid9644/mujahid9644/blob/main/assets/images/dent2.png?raw=true" width="220" />
   </a>
   <br/><b>Doctor Appointment Demo</b>
-  <br/><a href="https://mujahid9644.github.io/doctor-demo/">Live Link</a>
+  <br/><a href="https://dent2-rho.vercel.app/">Live Link</a>
 </p>
 
 > 📝 Each project's repo README explains the tech stack, features, and how to run it locally.
